@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front - end Developer
 ---------------------
 
-* 🌍  I'm based in U
-* ✉️  You can contact me at [yuliatarasenko.work@gmail.com](mailto:yuliatarasenko.work@gmail.com)
+* 🌍  I'm based in Ukraine, Odessa.
+* ✉️  You can contact me at [yuliatarasenko.work@gmail.com](mailto:yuliatarasenko.work@gmail.com).
 
 ### Skills
 
@@ -24,8 +24,10 @@ Front - end Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/JuliaTarasenko00"><img src="https://github-readme-stats.vercel.app/api?username=JuliaTarasenko00&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="JuliaTarasenko00's GitHub stats" /></a>
+![JuliaTarasenko00 GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaTarasenko00&theme=dark&show_icons=true)
 </br>
+</br>
+
 <img src="https://www.codewars.com/users/JuliaTarasenko00/badges/micro" alt="JuliaTarasenko00's GitHub stats" />
 
 
