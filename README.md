@@ -39,7 +39,7 @@ Front - end Developer
 <b>My GitHub Stats</b>
 <div align="center">
 
-![JuliaTarasenko00 GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaTarasenko00&theme=dark&show_icons=true)
+![JuliaTarasenko00 GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaTarasenko00&theme=swift&show_icons=true)
 
 
 </br>
