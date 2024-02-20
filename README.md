@@ -30,10 +30,8 @@ Front - end Developer
 
 ### Socials
 
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yuliia-tarasenko-front-end/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yuliia-tarasenko-front-end/" height="30" width="40" /></a>
-<a href="https://discord.gg/yuliia_tarasenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yuliia_tarasenko" height="30" width="40" /></a>
-</p>
+![Static Badge](https://img.shields.io/badge/Discord-222ca0?style=for-the-badge&logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.com%2Fusers%2Fyuliia_tarasenko)
+ <a href="https://www.linkedin.com/in/yuliia-tarasenko-front-end/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
  
 
 ### Badges
