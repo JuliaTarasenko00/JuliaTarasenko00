@@ -46,7 +46,7 @@ Front - end Developer
 </br>
 </br>
 
-<img src="https://www.codewars.com/users/JuliaTarasenko00/badges/micro" alt="JuliaTarasenko00's GitHub stats" />
+
 
 </div>
 
