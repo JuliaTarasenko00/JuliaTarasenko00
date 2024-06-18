@@ -44,7 +44,5 @@ Front - end Developer
 </br>
 </br>
 
-
-
 </div>
 
