@@ -16,7 +16,6 @@ Front - end Developer
 
 </div>
 
-
 * 🌍  I'm based in Ukraine, Odessa.
 * ✉️  You can contact me at [yuliatarasenko.work@gmail.com](mailto:yuliatarasenko.work@gmail.com).
 
