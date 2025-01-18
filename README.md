@@ -25,7 +25,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  <a href="https://www.linkedin.com/in/yuliia-tarasenko-front-end/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 </div>
 
-<h2 align="center">My Skills</h2>
+<h2 align="center">My Skills 🧠💻</h2>
 
 <p>Front-end:</p>
 
